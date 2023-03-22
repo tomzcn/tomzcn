@@ -1,6 +1,15 @@
-### Hi there 👋
+my projects:
+
+https://github.com/tomzcn/printself-like-tiddlywiki
+
+https://github.com/tomzcn/decentral-http
+
+https://github.com/tomzcn/tomzheng-notes
 
 <!--
+
+### Hi there 👋
+
 **tomzcn/tomzcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
